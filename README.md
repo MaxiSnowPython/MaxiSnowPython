@@ -1,6 +1,6 @@
 <!-- 🔥 Гифка костра -->
 <p align="center">
-  <img src="https://media.giphy.com/media/l0HUpt2s9Pclgt9Vm/giphy.gif" width="600"/>
+  <img src="https://media.giphy.com/media/l0HUpt2s9Pclgt9Vm/giphy.gif](https://giphy.com/gifs/space-earth-aureliepollet-l2QZSoIjDsMph1K5G" width="600"/>
 </p>
 
 ---
