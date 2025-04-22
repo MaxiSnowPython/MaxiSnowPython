@@ -1,16 +1,22 @@
-## Hi there 👋
+### Привет! 👋 Меня зовут Илья
 
-<!--
-**MaxiSnowPython/MaxiSnowPython** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Я разработчик на Python, Django, JavaScript  
+🌐 Люблю делать красивые UI и писать backend  
+🚀 Сейчас работаю над [Проектом](https://github.com/...)  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Мой стек
+![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
+
+---
+
+### 🔥 GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=exampleuser&show_icons=true&theme=radical)
+
+---
+
+### 🎬 Моя гифка
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
