@@ -31,9 +31,9 @@
 ### 📊 GitHub статистика
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ТВОЙ_ЮЗЕРНЕЙМ&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MaxiSnowPython&show_icons=true&theme=tokyonight" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ТВОЙ_ЮЗЕРНЕЙМ&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaxiSnowPython&layout=compact&theme=tokyonight" />
 </p>
 
 ---
